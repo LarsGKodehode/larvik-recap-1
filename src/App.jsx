@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom'
 
 // Routes
-import LandingPage from './routes/LandingPage'
+import LandingPage from './routes'
 import AboutPage from './routes/AboutPage/AboutPage'
 
 function App() {
